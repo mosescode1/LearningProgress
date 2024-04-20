@@ -1,10 +1,11 @@
-"use strict";
+'use strict';
 
 // alert("I'm javascript but linked in using the src");
 
 // declaring twice with let causes an Error
 
-let message = "Hello";
+let message = 'Hello';
+console.log(message);
 
 /*
 This would cause an Error 
